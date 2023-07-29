@@ -34,3 +34,5 @@ for item in tasks:
 
 print("Правильных ответов:", good_answers)
 print("Неправильных ответов:", bad_answers)
+
+print("Неправильных ответов:", bad_answers)
